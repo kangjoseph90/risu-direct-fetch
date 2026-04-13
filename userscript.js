@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         RisuAI Direct Fetch (Bypass Proxy)
+// @namespace    https://github.com/kangjoseph90/risu-direct-fetch
 // @version      1.2.0
 // @description  RisuAI의 공유 프록시(sv.risuai.xyz/proxy2)를 우회하여 LLM API에 직접 요청합니다.
 //               프록시를 거치지 않으므로 Origin 헤더 노출 없이 사용자 본인 IP로 요청됩니다.
